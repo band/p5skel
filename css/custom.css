@@ -21,6 +21,9 @@
   display: block;
   text-align: center;
   margin: 2.5rem auto 0; }
+.value-imgcaption {
+    display: block;
+    text-align: center; }
 .example-grid .column,
 .example-grid .columns {
   background: #EEE;
